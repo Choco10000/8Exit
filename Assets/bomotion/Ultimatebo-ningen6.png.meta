@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aadc255c1ba8ce04fbec8c78d00ddd59
+guid: 6acac1d97f36f9b42be11ca2552e6b6b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1964444288951152660
-    second: Gemini_Generated_Image_eqmov5eqmov5eqmo 1_0
+      213: 245976683714328429
+    second: Ultimatebo-ningen7_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_eqmov5eqmov5eqmo 1_0
+      name: Ultimatebo-ningen7_0
       rect:
         serializedVersion: 2
-        x: 370
-        y: 372
-        width: 192
-        height: 485
+        x: 18
+        y: 1
+        width: 21
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4107af73cab134b10800000000000000
-      internalID: 1964444288951152660
+      spriteID: d6732d79d72e96300800000000000000
+      internalID: 245976683714328429
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_eqmov5eqmov5eqmo 1_0: 1964444288951152660
+      Ultimatebo-ningen7_0: 245976683714328429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
